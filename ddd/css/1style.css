@@ -1,0 +1,151 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+display: block;
+}
+body {
+line-height: 1;
+}
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: '';
+content: none;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+  
+body{
+    max-width: 100%;
+    max-height: 100%;
+    
+    margin-top: 50px;
+    padding-bottom: 1000px;
+    background: rgb(255, 255, 255);
+    display: grid;
+    align-items: center;
+    justify-self: center;
+    
+}
+.h1{
+    font-size: 200%;
+    color: black;
+    
+    text-align: center;
+}
+.h2{
+    font-size: 150%;
+    color: black;
+    text-align: center;
+    
+}
+.link{
+    font-size: 100%;
+    color: black;
+    padding-left: 5%;
+}
+.link:hover{
+    text-decoration: underline;
+    color:brown
+}
+.h4{
+    font-size: 150%;
+    color: coral;
+    padding-left: 5%;
+}
+.h5{
+    font-size: 110%;
+}
+.block{
+    border:1px solid rgb(0, 0, 0);
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 5%;
+    margin-right: 70%;
+    padding: 1% 1% 1% 1%;
+    font-size: 100%;
+    
+}
+.h6{
+
+   margin-top: 5%;
+   margin-left: 35%;
+}
+.h7{
+   
+    margin-left: 23%;
+}
+.h8{
+    margin-left: 5%;
+}
+.h9{
+    margin-left: 17%;
+}
+.h10{
+    margin-left: 1%;
+}
+.h11{
+    margin-left: 6%;
+}
+.h13{
+    margin-left: 13%;
+}
+.h14{
+margin-left: 11%;
+}
+.h15{
+    margin-left: 14%;
+}
+.h16{
+    margin-left: 17%;
+}
+.h17{
+    margin-left: 35%;
+}
+.h18{
+    margin-left: 38%;
+}
+.h19{
+    margin-left: 21%;
+}
+.h20{
+    margin-left: 33%;
+}
+.h21{
+    margin-left: 3%;
+}
+.h22{
+    margin-left: 21%;
+}
+.h23{
+    margin-left: 22%;
+}
+.h24{
+    margin-left: 20%;
+}
